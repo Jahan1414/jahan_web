@@ -46,7 +46,7 @@ const PROJECTS = [
     title: "Jahan_web",
     description: "The public repository of the website's source code. Feel free to report bugs, add features and contribute if you'd like! :)",
     tags: ["HTML", "CSS", "TS", "REACT", "Open-Source", "Ongoing"],
-    link: "https://github.com/https://github.com/Jahan1414/jahan_web",
+    link: "https://github.com/Jahan1414/jahan_web",
     type: "SOURCE CODE"
   },
   {
